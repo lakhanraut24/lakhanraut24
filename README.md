@@ -31,7 +31,7 @@
       </td>
       <td width="25%" align="center">
         <span>React-js</span><br><br><br>
-        <img height="64px" src="src="![image](https://user-images.githubusercontent.com/92510591/220876971-34445d01-8562-4077-95e2-48097e6cc323.png)">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
     </tr>
     <tr valign="top">
