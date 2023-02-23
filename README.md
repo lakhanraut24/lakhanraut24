@@ -2,7 +2,7 @@
 
 ## About Me
 
- Hey My Name is Lakhan Raut, I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+ My Name is Lakhan Raut, I am a Tech Enthusiast. Looking forward to learn new skills .
 
  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -31,15 +31,11 @@
       </td>
       <td width="25%" align="center">
         <span>React-js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="64px" src="src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
+       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -52,10 +48,6 @@
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲xt-js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
     </tr>
   </tbody>
 </table>
@@ -63,16 +55,7 @@
 <h1 align="center">
 ✨ Where you can find me ✨
   
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-
+ 
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/lakhan-raut-034867133/">
