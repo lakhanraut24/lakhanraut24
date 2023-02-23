@@ -31,7 +31,7 @@
       </td>
       <td width="25%" align="center">
         <span>React-js</span><br><br><br>
-        <img height="64px" src="src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="src="https://cdn.svgporn.com/logos/react.png">
       </td>
     </tr>
     <tr valign="top">
@@ -43,7 +43,6 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
      <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
