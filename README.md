@@ -6,11 +6,11 @@
 
  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-💻 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Developer, in Idm Technologies as a front-end intern.
+💻 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Developer, in Wintel Global Technologies.
 
 🖖 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 and React-js.
 
-🌱 I’m 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 learning Node-js and Next-Js 🔭 I am MERN stack enthusiast, I’m currently working on ...MERN stack project
+🌱 Node-js and Next-Js 🔭 I am MERN stack enthusiast
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
